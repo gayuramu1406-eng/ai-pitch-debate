@@ -1,0 +1,30 @@
+PITCH: An AI tutor that replaces human tutors for K-12 math
+======================================================================
+
+[Alex (Founder)]
+"Our AI tutor is revolutionizing K-12 math education. With 50,000 active users and a 30% month-over-month growth rate, we’re already outperforming traditional tutoring. Students using our platform see a 25% improvement in test scores within 3 months. The market for K-12 tutoring is $100 billion, and we’re capturing it with a scalable, cost-effective solution. Unlike human tutors, our AI is available 24/7, adapts to each student’s learning style, and costs 70% less. We’ve already generated $500,000 in revenue this year, and with this funding, we’ll scale to 1 million users by 2025. This isn’t just a product—it’s the future of education."
+
+[Morgan (VC)]
+Interesting numbers, but I need more specifics. How many of those 50k users are paying, and what’s the churn? Your 30% MoM growth—does that reflect paid user acquisition or just new sign‑ups? You claim 25% test‑score improvement; what’s your control group, and over what baseline? Your margin projection looks thin—what’s your cost of customer acquisition versus lifetime value? Finally, what differentiates your AI from existing ed‑tech platforms that already have AI features, and who’s on the team to scale this to a million users?
+
+[Alex (Founder)]
+Fair questions, Morgan. 70% of our 50k users are paying, with a churn rate of 5% monthly. The 30% MoM growth includes paid users, not just sign-ups. Our 25% test-score improvement is based on a randomized control trial with 2,000 students, compared to a baseline of traditional tutoring. On margins, our CAC is $20, with an LTV of $150. What sets us apart? Our AI is built on proprietary adaptive learning algorithms, not just generic AI features. Our team includes ex-Google engineers, ed-tech veterans, and PhDs in machine learning. We’re ready to scale—this funding will fuel user acquisition and R&D to hit that 1M user mark. Let’s make this happen.
+
+[Morgan (VC)]
+You’re promising a lot. Can you break down the $150 LTV—what’s the recurring revenue per user? With a 5% MoM churn, how many users do you lose each month, and what’s your user acquisition budget? Your proprietary algorithm—do you hold any IP or patents that prevent competitors from mimicking it? How many PhDs are actively driving product? What’s the burn rate, and how long will the current runway last if you hit 1M users?
+
+[Alex (Founder)]
+Sure, let’s dive in. Our recurring revenue per user is $15/month, so the $150 LTV is based on a 10-month average lifespan. With 5% churn, we lose about 1,750 users monthly from our paying base. Our user acquisition budget is $100k/month, focused on performance marketing and partnerships. On IP, we’ve filed two patents for our adaptive learning algorithms, and we’re confident in our defensibility. We have three PhDs actively driving product development. Our burn rate is $250k/month, and with this funding, we’ll have 18 months of runway to scale to 1M users. We’re built to dominate this space.
+
+[Morgan (VC)]
+Your numbers still raise red flags. With a $20 CAC and $15/mo revenue, you’ll need ~13 months to break even per user; how do you plan to offset that while scaling to 1M? A 10‑month average lifespan suggests you’re losing 50% of new users before the break‑even point. Two patents aren’t enough—can you demo the technical moat? Your burn at $250k/month on an $18M runway means you’ll hit a funding gap well before reaching 1M if growth stalls. Also, your performance‑marketing budget—what’s the CPA, and how scalable is it beyond the first $100k?
+
+[Alex (Founder)]
+Respectfully, Morgan, we’re not just breaking even—we’re reinvesting in growth. Our LTV calculation includes upsells and annual plans, which accelerate payback. On churn, we’re actively improving retention with personalized engagement features, already reducing churn by 2% in Q3. Our technical moat? We’ll demo the adaptive engine post-meeting—it’s not just patents, it’s the data flywheel we’ve built. For burn, we’re optimizing infrastructure costs to stretch runway to 24 months. CPA is $15, and we’ve tested scaling to $200k/month with a 2.5x ROAS. We’re not just promising—we’re executing. Let’s talk terms.
+
+[Morgan (VC)]
+The 25% test‑score improvement shown in a randomized trial.  
+The high churn and short customer lifespan threaten return on CAC.  
+Payback will take 13 months per user, longer than the burn window, making scaling risky; unless retention improves quickly, it’s a dealbreaker.  
+VERDICT: NO DEAL
+
